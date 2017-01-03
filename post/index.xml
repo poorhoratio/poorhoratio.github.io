@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Poor Horatio</title>
+    <link>http://poorhoratio.com/post/index.xml</link>
+    <description>Recent content in Posts on Poor Horatio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Tue, 03 Jan 2017 12:45:13 -0500</lastBuildDate>
+    <atom:link href="http://poorhoratio.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://poorhoratio.com/2017/01/03/2016-books/</link>
+      <pubDate>Tue, 03 Jan 2017 12:45:13 -0500</pubDate>
+      
+      <guid>http://poorhoratio.com/2017/01/03/2016-books/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

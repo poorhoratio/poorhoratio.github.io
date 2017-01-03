@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://poorhoratio.com/2017/01/03/2016-books/</loc>
+    <lastmod>2017-01-03T12:45:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://poorhoratio.com/page/about/</loc>
+    <lastmod>2017-01-03T12:33:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://poorhoratio.com/page/</loc>
+    <lastmod>2017-01-03T12:33:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://poorhoratio.com/</loc>
+    <lastmod>2017-01-03T12:45:13-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://poorhoratio.com/post/</loc>
+    <lastmod>2017-01-03T12:45:13-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
