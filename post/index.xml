@@ -6,17 +6,26 @@
     <description>Recent content in Posts on Poor Horatio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>My Name</copyright>
-    <lastBuildDate>Tue, 03 Jan 2017 12:45:13 -0500</lastBuildDate>
+    <copyright>Nick Howard</copyright>
+    <lastBuildDate>Mon, 02 Jan 2017 17:19:30 -0500</lastBuildDate>
     <atom:link href="http://poorhoratio.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>http://poorhoratio.com/2017/01/03/2016-books/</link>
-      <pubDate>Tue, 03 Jan 2017 12:45:13 -0500</pubDate>
+      <title>Hello World (again)</title>
+      <link>http://poorhoratio.com/2017/01/02/hello-world-again/</link>
+      <pubDate>Mon, 02 Jan 2017 17:19:30 -0500</pubDate>
       
-      <guid>http://poorhoratio.com/2017/01/03/2016-books/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;
+      <guid>http://poorhoratio.com/2017/01/02/hello-world-again/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s see how many times in the next year I post something. I&amp;rsquo;ll put the over/under at 2.5, not including this one.&lt;/p&gt;
+
+&lt;p&gt;So, the setup I am currently using is:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hover.com (domain registration)&lt;/li&gt;
+&lt;li&gt;Cloudflare (DNS)&lt;/li&gt;
+&lt;li&gt;Hugo (static site generator)&lt;/li&gt;
+&lt;li&gt;Github pages&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
