@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://poorhoratio.com/2017/01/04/2016-books/</loc>
+    <lastmod>2017-01-04T20:45:13-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://poorhoratio.com/page/about/</loc>
     <lastmod>2017-01-03T12:33:06-05:00</lastmod>
   </url>
@@ -19,13 +24,13 @@
   
   <url>
     <loc>http://poorhoratio.com/</loc>
-    <lastmod>2017-01-03T12:33:06-05:00</lastmod>
+    <lastmod>2017-01-04T20:45:13-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://poorhoratio.com/post/</loc>
-    <lastmod>2017-01-02T17:19:30-05:00</lastmod>
+    <lastmod>2017-01-04T20:45:13-05:00</lastmod>
     <priority>0</priority>
   </url>
   
