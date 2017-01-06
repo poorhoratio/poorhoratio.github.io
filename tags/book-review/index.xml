@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Review on Poor Horatio</title>
+    <link>http://poorhoratio.com/tags/book-review/index.xml</link>
+    <description>Recent content in Book Review on Poor Horatio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Nick Howard</copyright>
+    <atom:link href="http://poorhoratio.com/tags/book-review/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Quick Book Review - 10% Happier</title>
+      <link>http://poorhoratio.com/2017/01/05/10-percent-happier/</link>
+      <pubDate>Thu, 05 Jan 2017 20:03:46 -0500</pubDate>
+      
+      <guid>http://poorhoratio.com/2017/01/05/10-percent-happier/</guid>
+      <description>&lt;p&gt;Just finished &lt;a href=&#34;https://www.amazon.com/10-Happier-Self-Help-Actually-Works/dp/0062265431/&#34;&gt;10% Happier&lt;/a&gt; by Dan Harris. I give it 3.5 stars, I guess. I rounded down on Goodreads and gave it 3.&lt;/p&gt;
+
+&lt;p&gt;The Good - I like personal stories, hearing about individuals personal struggles, how they overcome them, and how they have found ways to be a better person. As a parent I could use more mindfulness. A lot more mindfulness. It&amp;rsquo;s a struggle. Maybe I&amp;rsquo;ll start meditating. Anything I can do to help me reason instead of react is a good thing.&lt;/p&gt;
+
+&lt;p&gt;The Bad - Short on specifics. Maybe I&amp;rsquo;ll pick up another book on meditation. Or not. Who knows. With most books like this I feel like they could be shorter.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
