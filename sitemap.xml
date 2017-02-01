@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/2017/01/31/the-gift-of-failure/</loc>
+    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2017/01/16/the-undoing-project/</loc>
     <lastmod>2017-01-16T06:24:51-05:00</lastmod>
   </url>
@@ -33,7 +38,7 @@
   
   <url>
     <loc>/tags/book-review/</loc>
-    <lastmod>2017-01-16T06:24:51-05:00</lastmod>
+    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,13 +50,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-01-16T06:24:51-05:00</lastmod>
+    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-01-16T06:24:51-05:00</lastmod>
+    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
     <priority>0</priority>
   </url>
   
