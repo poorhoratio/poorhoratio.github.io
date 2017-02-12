@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/2017/02/12/how-i-met-my-wife-at-arbys/</loc>
+    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2017/01/31/the-gift-of-failure/</loc>
     <lastmod>2017-01-31T19:28:52-05:00</lastmod>
   </url>
@@ -27,7 +32,7 @@
   </url>
   
   <url>
-    <loc>/page/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-01-03T12:33:06-05:00</lastmod>
   </url>
   
@@ -43,20 +48,20 @@
   </url>
   
   <url>
-    <loc>/page/</loc>
-    <lastmod>2017-01-03T12:33:06-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
+    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
+    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/random/</loc>
+    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
