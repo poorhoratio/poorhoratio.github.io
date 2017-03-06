@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/2017/03/05/the-brothers-karamazov/</loc>
+    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2017/02/12/how-i-met-my-wife-at-arbys/</loc>
     <lastmod>2017-02-12T14:39:42-05:00</lastmod>
   </url>
@@ -48,14 +53,25 @@
   </url>
   
   <url>
+    <loc>/categories/book-review/</loc>
+    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
+    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
+    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
     <priority>0</priority>
   </url>
   
