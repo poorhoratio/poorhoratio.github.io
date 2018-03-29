@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>/2018/03/29/granda-is-gone/</loc>
+    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2017/03/05/the-brothers-karamazov/</loc>
     <lastmod>2017-03-05T19:26:54-05:00</lastmod>
   </url>
@@ -47,14 +52,14 @@
   </url>
   
   <url>
-    <loc>/tags/book-review/</loc>
-    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
+    <loc>/categories/book-review/</loc>
+    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/book-review/</loc>
-    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
+    <loc>/tags/book-review/</loc>
+    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,13 +70,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
+    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
+    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
     <priority>0</priority>
   </url>
   
