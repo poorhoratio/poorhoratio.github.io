@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/2018/03/29/grandma-is-gone/</loc>
     <lastmod>2018-03-29T19:54:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -12,13 +31,37 @@
   </url>
   
   <url>
+    <loc>/categories/book-review/</loc>
+    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/2017/02/12/how-i-met-my-wife-at-arbys/</loc>
     <lastmod>2017-02-12T14:39:42-05:00</lastmod>
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/random/</loc>
+    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/2017/01/31/the-gift-of-failure/</loc>
     <lastmod>2017-01-31T19:28:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/book-review/</loc>
+    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -49,46 +92,6 @@
   <url>
     <loc>/2017/01/02/hello-world-again/</loc>
     <lastmod>2017-01-02T17:19:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/book-review/</loc>
-    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/book-review/</loc>
-    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/random/</loc>
-    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
