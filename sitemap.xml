@@ -1,94 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2018/03/29/grandma-is-gone/</loc>
+    <loc>http://poorhoratio.com/posts/grandma-is-gone/</loc>
     <lastmod>2018-03-29T19:54:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/03/05/the-brothers-karamazov/</loc>
+    <loc>http://poorhoratio.com/</loc>
+    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://poorhoratio.com/posts/</loc>
+    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://poorhoratio.com/posts/the-brothers-karamazov/</loc>
     <lastmod>2017-03-05T19:26:54-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/02/12/how-i-met-my-wife-at-arbys/</loc>
+    <loc>http://poorhoratio.com/posts/how-i-met-my-wife-at-arbys/</loc>
     <lastmod>2017-02-12T14:39:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/01/31/the-gift-of-failure/</loc>
+    <loc>http://poorhoratio.com/tags/random/</loc>
+    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://poorhoratio.com/tags/</loc>
+    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://poorhoratio.com/tags/book-review/</loc>
     <lastmod>2017-01-31T19:28:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/01/16/the-undoing-project/</loc>
+    <loc>http://poorhoratio.com/posts/the-gift-of-failure/</loc>
+    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://poorhoratio.com/posts/the-undoing-project/</loc>
     <lastmod>2017-01-16T06:24:51-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/01/08/the-things-they-carried/</loc>
+    <loc>http://poorhoratio.com/posts/the-things-they-carried/</loc>
     <lastmod>2017-01-08T12:42:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/01/05/10-percent-happier/</loc>
+    <loc>http://poorhoratio.com/posts/10-percent-happier/</loc>
     <lastmod>2017-01-05T20:03:46-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/01/04/2016-books/</loc>
+    <loc>http://poorhoratio.com/posts/2016-books/</loc>
     <lastmod>2017-01-04T20:45:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://poorhoratio.com/about/</loc>
     <lastmod>2017-01-03T12:33:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/01/02/hello-world-again/</loc>
+    <loc>http://poorhoratio.com/posts/hello-world-again/</loc>
     <lastmod>2017-01-02T17:19:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/book-review/</loc>
-    <lastmod>2017-01-31T19:28:52-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/book-review/</loc>
-    <lastmod>2017-03-05T19:26:54-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2018-03-29T19:54:51-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/random/</loc>
-    <lastmod>2017-02-12T14:39:42-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

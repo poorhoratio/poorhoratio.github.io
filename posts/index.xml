@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poor Horatio</title>
-    <link>http://poorhoratio.com/</link>
-    <description>Recent content on Poor Horatio</description>
+    <title>Posts on Poor Horatio</title>
+    <link>http://poorhoratio.com/posts/</link>
+    <description>Recent content in Posts on Poor Horatio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Mar 2018 19:54:51 -0400</lastBuildDate>
     
-	<atom:link href="http://poorhoratio.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://poorhoratio.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -97,16 +97,6 @@ The Good - I like personal stories, hearing about individuals personal struggles
       <guid>http://poorhoratio.com/posts/2016-books/</guid>
       <description>A few years ago I started reading a lot more and keeping track of what I&#39;m reading. I&#39;m a big fan of Goodreads. Anyway, something else I like are &amp;ldquo;best books I read this year (or last, as it were)&amp;rdquo; lists. So here is mine, in no particular order, except my favorite is first.
  Shoe Dog by Phil Knight  Fantastic book about the beginning of Nike. I don&#39;t care much about shoes, but I remember having Nike shoes in elementary school.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://poorhoratio.com/about/</link>
-      <pubDate>Tue, 03 Jan 2017 12:33:06 -0500</pubDate>
-      
-      <guid>http://poorhoratio.com/about/</guid>
-      <description>The name of this site is derived from the episode of The Andy Griffith Show where Opie says &amp;ldquo;Poor Horatio&amp;rdquo; in reference to, what he believes is, half a boy.
-  You can find me on Twitter dot com.</description>
     </item>
     
     <item>
