@@ -33,3 +33,15 @@ body {
     font-weight: bold;
 }
 
+figcaption {
+    font-style: italic;
+}
+
+blockquote {
+    font-family: "verdana", "ubuntu", sans-serif;
+    font-size: 1em;
+}
+
+figure {
+    padding: 10px;
+}
