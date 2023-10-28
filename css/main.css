@@ -1,5 +1,5 @@
 body {
-    font-family: "verdana", "ubuntu", sans-serif;
+    font-family: "Segoe UI", "ubuntu", sans-serif;
     font-weight: 400;
     color: #333;
     line-height: 1.6;
@@ -64,7 +64,7 @@ blockquote {
     margin-left: 1rem;
     font-style: italic;
     font-size: 1.4rem;
-    font-family: Georgia,bitstream charter,serif;
+    font-family: "Segoe UI",bitstream charter,serif;
     border-left: 3px solid;
     border-color: #a00;
     padding-left: 20px;
